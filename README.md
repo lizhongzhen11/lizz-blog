@@ -7,6 +7,7 @@
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/2">前端知识点链接收藏</a>
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/1">Object.prototype.toString.call()</a>
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/3">如何跳出循环？</a>
+  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/4">惰性载入函数是什么鬼？</a>
   
 ### 其他行业知识
   - <a href="https://www.zhihu.com/question/22316395/answer/100909780?utm_medium=social&utm_source=wechat_session">如何用保险保障自己的一生？</a>
