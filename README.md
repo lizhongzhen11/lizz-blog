@@ -20,6 +20,7 @@
   - <a href="https://github.com/youngwind/blog">梁少峰的个人博客</a>
   - <a href="https://github.com/ProtoTeam/blog">蚂蚁数据体验技术团队博客</a>
   - <a href="https://github.com/camsong/blog">camsong的前端开发博客</a>
+  - <a href="https://github.com/cssmagic/blog">CSS魔法 - 博客</a>
   
 ### 其他行业知识
   - <a href="https://www.zhihu.com/question/22316395/answer/100909780?utm_medium=social&utm_source=wechat_session">如何用保险保障自己的一生？</a>
