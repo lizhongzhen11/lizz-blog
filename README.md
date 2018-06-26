@@ -2,6 +2,10 @@
 接 https://github.com/lizhongzhen11/lizhongzhen11.github.io<br>
 现在打算直接在`issues`里面去写博客了，当然，如果内容较多的话可能依然会用老博客
 
+## 纸上得来终觉浅，绝知此事要躬行！
+
+### 如果成为不了大牛，那就成为大牛们的“司机”，运输专业技术知识！（如果有错的请指出，我改）
+
 ## 目录
 ### 一、js
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/2">前端知识点链接收藏</a>
