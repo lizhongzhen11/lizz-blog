@@ -14,7 +14,8 @@
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/4">惰性载入函数是什么鬼？</a>
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/5">惰性求值是什么东东？和惰性载入一样不？</a>
   
-### 二、大牛博客，文章等收藏(这里收藏的是连续产出高质量文章的博客系列，单个高质量文章放在前端知识点链接里。注意：此处只是收藏链接，如果原作者不同意，我会删除)
+### 二、大牛博客，文章等收藏
+(这里收藏的是连续产出高质量文章的博客系列，单个高质量文章放在前端知识点链接里。注意：此处只是收藏链接，如果原作者不同意，我会删除)
   - <a href="https://segmentfault.com/blog/justjavac?page=1">justjavac的前端进阶</a>
   - <a href="https://github.com/mqyqingfeng/Blog">冴羽的博客</a>
   - <a href="https://github.com/jawil/blog">jawil的前端小密圈</a>
