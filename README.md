@@ -10,5 +10,8 @@
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/4">惰性载入函数是什么鬼？</a>
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/5">惰性求值是什么东东？和惰性载入一样不？</a>
   
+### 二、大牛博客，文章等收藏
+  - <a href="https://segmentfault.com/blog/justjavac?page=1">justjavac的前端进阶</a>
+  
 ### 其他行业知识
   - <a href="https://www.zhihu.com/question/22316395/answer/100909780?utm_medium=social&utm_source=wechat_session">如何用保险保障自己的一生？</a>
