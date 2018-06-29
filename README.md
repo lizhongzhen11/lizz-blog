@@ -34,8 +34,9 @@
   - <a href="https://github.com/windiest/Front-end-tutorial">猫的前端回忆录</a>
   - <a href="https://segmentfault.com/u/meetbo/articles?page=1">九死蚕传人bo</a>
   
-### 三、线上技术书收藏
+### 三、线上技术书（系列文章）收藏
   - <a href="http://liubin.org/promises-book/">JavaScript Promise迷你书（中文版）</a>
+  - <a href="http://www.hollischuang.com/archives/1001">Java工程师成神之路</a>
   
 ### 其他行业知识
   - <a href="https://www.zhihu.com/question/22316395/answer/100909780?utm_medium=social&utm_source=wechat_session">如何用保险保障自己的一生？</a>
