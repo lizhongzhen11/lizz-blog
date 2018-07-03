@@ -15,6 +15,7 @@
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/5">惰性求值是什么东东？和惰性载入一样不？</a>
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/6">闭包：我让你云里雾里摸不着头脑，你怕不怕？</a>
   - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/7">手写一个假冒伪劣Promise会不会被喷？</a>
+  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/8">this: 嘿嘿嘿，你怕不怕我？</a>
   
 ### 二、大牛博客，文章等收藏
 (这里收藏的是连续产出高质量文章的博客系列，单个高质量文章放在前端知识点链接里。注意：此处只是收藏链接，如果原作者不同意，我会删除)
