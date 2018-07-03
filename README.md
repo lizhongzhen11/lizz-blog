@@ -40,6 +40,7 @@
   - <a href="http://liubin.org/promises-book/">JavaScript Promise迷你书（中文版）</a>
   - <a href="http://www.hollischuang.com/archives/1001">Java工程师成神之路</a>
   - <a href="https://github.com/webpack-china/awesome-webpack-cn">搜罗一切webpack的好文章好工具</a>
+  - <a href="https://github.com/justjavac/free-programming-books-zh_CN">免费的编程中文书籍索引</a>
   
 ### 其他行业知识
   - <a href="https://www.zhihu.com/question/22316395/answer/100909780?utm_medium=social&utm_source=wechat_session">如何用保险保障自己的一生？</a>
