@@ -47,5 +47,4 @@
   - <a href="https://github.com/justjavac/free-programming-books-zh_CN">免费的编程中文书籍索引</a>
   - <a href="https://github.com/gwuhaolin/dive-into-webpack">《深入浅出Webpack》</a>
   
-### 其他行业知识
-  - <a href="https://www.zhihu.com/question/22316395/answer/100909780?utm_medium=social&utm_source=wechat_session">如何用保险保障自己的一生？</a>
+### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/%E5%85%B6%E4%BB%96%E8%A1%8C%E4%B8%9A%E7%9F%A5%E8%AF%86.md">其他行业知识</a>
