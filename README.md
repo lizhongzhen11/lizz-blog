@@ -7,44 +7,10 @@
 ### 如果成为不了大牛，那就成为大牛们的“司机”，运输专业技术知识！（如果有错的请指出，我改）
 
 ## 目录
-### 一、js
-  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/2">前端知识点链接收藏</a>
-  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/1">Object.prototype.toString.call()</a>
-  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/3">如何跳出循环？</a>
-  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/4">惰性载入函数是什么鬼？</a>
-  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/5">惰性求值是什么东东？和惰性载入一样不？</a>
-  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/6">闭包：我让你云里雾里摸不着头脑，你怕不怕？</a>
-  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/7">手写一个假冒伪劣Promise会不会被喷？</a>
-  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/8">this: 嘿嘿嘿，你怕不怕我？</a>
-  - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/9">http！到！https！到！http2！到！开炮！！！</a>
+### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/js.md">js</a>
   
-### 二、大牛博客，文章等收藏
-(这里收藏的是连续产出高质量文章的博客系列，单个高质量文章放在前端知识点链接里。注意：此处只是收藏链接，如果原作者不同意，我会删除)
-  - <a href="https://adrianmejia.com/">adrianmejia</a>
-  - <a href="https://segmentfault.com/blog/justjavac?page=1">justjavac的前端进阶</a>
-  - <a href="https://github.com/mqyqingfeng/Blog">冴羽的博客</a>
-  - <a href="https://github.com/jawil/blog">jawil的前端小密圈</a>
-  - <a href="https://github.com/kaola-fed/blog">考拉前端团队博客</a>
-  - <a href="https://github.com/xitu/gold-miner">掘金翻译计划</a>
-  - <a href="https://github.com/fouber/blog">fouber的个人博客</a>
-  - <a href="https://github.com/youngwind/blog">梁少峰的个人博客</a>
-  - <a href="https://github.com/ProtoTeam/blog">蚂蚁数据体验技术团队博客</a>
-  - <a href="https://github.com/camsong/blog">camsong的前端开发博客</a>
-  - <a href="https://github.com/cssmagic/blog">CSS魔法 - 博客</a>
-  - <a href="https://github.com/Aaaaaaaty/blog">Aaaaaaaty的博客</a>
-  - <a href="https://github.com/YunaiV/Blog">YunaiV的博客(后端)</a>
-  - <a href="https://segmentfault.com/u/jamesfancy/articles">边城的文章</a>
-  - <a href="https://segmentfault.com/u/situzhengmei/articles">司徒正美的文章</a>
-  - <a href="https://github.com/windiest/Front-end-tutorial">猫的前端回忆录</a>
-  - <a href="https://segmentfault.com/u/meetbo/articles?page=1">九死蚕传人bo</a>
-  - <a href="https://imququ.com/post/series.html">屈光宇博客</a>  **http/http2等专题很好**
-  - <a href="https://github.com/dt-fe/weekly">前端精读周刊</a>
+### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/%E5%A4%A7%E7%89%9B%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0%E7%AD%89%E6%94%B6%E8%97%8F.md">大牛博客，文章等收藏</a>
   
-### 三、线上技术书（系列文章）收藏
-  - <a href="http://liubin.org/promises-book/">JavaScript Promise迷你书（中文版）</a>
-  - <a href="http://www.hollischuang.com/archives/1001">Java工程师成神之路</a>
-  - <a href="https://github.com/webpack-china/awesome-webpack-cn">搜罗一切webpack的好文章好工具</a>  **大致看了下，大多讲的是webpack2和3,4相关的比较少**
-  - <a href="https://github.com/justjavac/free-programming-books-zh_CN">免费的编程中文书籍索引</a>
-  - <a href="https://github.com/gwuhaolin/dive-into-webpack">《深入浅出Webpack》</a>
+### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/%E7%BA%BF%E4%B8%8A%E6%8A%80%E6%9C%AF%E4%B9%A6%EF%BC%88%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0%EF%BC%89%E6%94%B6%E8%97%8F.md">线上技术书（系列文章）收藏</a>
   
 ### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/%E5%85%B6%E4%BB%96%E8%A1%8C%E4%B8%9A%E7%9F%A5%E8%AF%86.md">其他行业知识</a>
