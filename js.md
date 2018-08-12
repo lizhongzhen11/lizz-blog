@@ -9,3 +9,4 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/8">this: 嘿嘿嘿，你怕不怕我？</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/10">看webpack官方文档给自己提出的几个问题</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/11">一个简单的函数监听器——类似于发布订阅模式</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/13">读《你不知道的javascript》上卷—原型和行为委托 </a>
