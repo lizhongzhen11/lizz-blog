@@ -23,3 +23,14 @@
 ## 2018-11-12
 
 1. 以前没用过vue的`slot`api，直到目前接手的项目中用到，才发现其实自己不怎么会，后来百度了下才算了解：https://laboo.top/2018/11/07/vue/
+
+## 2018-11-17
+> 其实是11.15号工作时了解到的内容，但由于当天通宵加班，今天才想起来。
+
+1. 关于 Flexbox 布局（偏向各个属性实现原理讲解）：
+  - https://github.com/xitu/gold-miner/blob/master/TODO1/flexbox-display-flex-container.md
+  - https://github.com/xitu/gold-miner/blob/master/TODO1/flexbox-alignment.md
+  
+ 2. <a href="https://github.com/xitu/gold-miner/blob/master/TODO1/adaptive-serving-using-javascript-and-the-network-information-api.md">使用 JavaScript 和网络信息 API 实现自适应服务</a>
+ 
+ 3. <a href="https://github.com/xitu/gold-miner/blob/master/TODO1/three-input-element-properties-that-i-discovered-while-reading-mdn.md">我在阅读 MDN 时发现的 3 个 Input 元素属性</a>
