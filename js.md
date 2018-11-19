@@ -11,5 +11,6 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/11">一个简单的函数监听器——类似于发布订阅模式</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/13">读《你不知道的javascript》上卷—原型和行为委托 </a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/14">DOM接口间的关系</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/15">读《你不知道的javascript》中卷—类型与语法</a>
 
 
