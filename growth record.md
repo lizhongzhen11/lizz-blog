@@ -69,7 +69,6 @@
             v-for="(item_value, item_key) in item" 
             :key="item_key + '-' + index" 
             :class="'wid-' + item_key" 
-            :style="{width: 100 / nShowCount + '%'}" 
             :title="item_value" 
             v-if="item_key !== 'ID'"
             v-text="item_value">
