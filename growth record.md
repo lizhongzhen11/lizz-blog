@@ -113,3 +113,10 @@
   - 这个问题的本质是`v-for`遍历后的顺序不是我在控制台看到的遍历前的顺序！！！ 
   - 昨天我不会右击选择 **Store as global variable** 这种方式，于是傻乎乎的在控制台直接`var obj = {...}`一个一个的写进去然后通过`for in`遍历，那时候发现顺序没变，就没想到`for in`上面，今天早上搜索发现当我们在控制台构造`Object`时，这时候遍历出来的键顺序与构造时一致，而引发上述问题的数据是后台传过来的，并不是我自己创建的。
   - 参考：http://w3help.org/zh-cn/causes/SJ9011
+  
+ 
+ ## 2018-11-22
+ 1.今天才知道css有个<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/all">all</a>属性，除了`unicode-bidi`和`direction`都支持该属性！
+ 
+ 2.chrome调试技巧再度get！！！F12打开控制台，然后选择第一个`Elements`，再选中那个带箭头的图标，点击页面上的例如`input`框，下方选中`Event Listeners`(和Styles在同一行)即可知道该`input`上存在的事件以及相应的js文件！！！
+ 
