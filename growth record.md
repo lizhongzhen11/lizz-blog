@@ -126,3 +126,28 @@
  2.还有，`form`表单提交时，只要有`name`属性的都会提交数据，除了`disabled`。之所以记录这个，是因为一个页面在已经有了下一步按钮同时加上一个保存按钮，两个按钮都起到提交功能，但是跳转页面不一样，起初我想通过`callback`来做，代码较多，后来还是后台的哥们说直接在两个`button`上加不同的`name`属性，他根据这个来判断，果然好了，又省下一大段代码。汗颜。。。
    - 这里奇怪的是，明明两个`button`都加了`name`属性，怎么点击其中一个`button`貌似只传了被点击`button`的`value`值，另一个没被点击的居然没传，以前还真没注意到
  
+## 2018-11-29
+1.鼠标悬停加文字，最简单的方法就是给标签加个`title`属性。
+
+2.`input`框在chrome里有个关于`autocomplete`问题，它会有个默认填充功能，这样输入框背景色会变成屎黄色，很难看，解决办法也较简单，`autocomplete=off`即可。
+
+3.老项目中既用到了vue也用到了jq。开发时发现，如果css写在`<style scoped></style>`内，使用jq的`addClass`方法无法改变样式，需要将css写在非`scoped`style标签中才行。
+
+4.`axios`请求下载报表功能，网上大同小异，但还是踩了坑：
+  - 坑1：后端跟我说是get请求，还需要带参数，我想到了`axios.get()`方法，但是死活不行，百度发现人家这样写`axios({method: get, url: 拼接的url, responseType: 'blob'})`，但是由于我不想用这么low的拼接方法，然后用了官方提供的`axios.get(url, {params: 数据})`，但是乱码，百度说要加上`responseType:'blob'`，可我不知道在哪里加，最后试了下，下面写法就好了。
+  ```js
+  this.$http.get('downloadReport', {params: this.handleData, responseType:'blob'}).then((res) => {
+    if (!res) {
+      return
+    }
+    let fileName = res.headers['content-disposition'].split('=')[1]
+    let url = window.URL.createObjectURL(res.data)
+    let link = document.createElement('a')
+    link.style.display = 'none'
+    link.href = url
+    link.setAttribute('download', `${fileName}`)
+    document.body.appendChild(link)
+    link.click()
+  ```
+  
+  - 坑2：后端多做了处理，我给他的是数组，结果他当成对象来弄了。
