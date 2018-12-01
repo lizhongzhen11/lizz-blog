@@ -155,3 +155,8 @@
 ## 2018-11-30
 1.js遍历数组时需不需要将数组长度缓存起来？
   - 看：https://www.jianshu.com/p/486e9a6c6b80
+  
+  
+## 2018-12-01
+1.看了几篇技术文章，记录下：
+  - <a href="https://github.com/berwin/Blog/issues/28">图像优化原理</a>，出自《深入浅出vue.js》作者之手，该作者居然是1995年出生的，令人汗颜啊，加油！该作者github:https://github.com/berwin
