@@ -171,3 +171,11 @@
 2.晚上老大说`switch case`效率比`if else`高，刚好记得前两天也看过类似的分析，具体也想不起来了，这样不好啊。只意识到效率高，却不明其理，这样很浮躁的，很容易被人问倒的，所以我晚上特地去百度了下，看了不少文章，究其原因涉及到了汇编，还有什么`switch case`用到了**跳表**等知识，特记录下来：
   - https://www.cnblogs.com/balingybj/p/5751707.html
   - https://www.jianshu.com/p/52c045d44cbd
+  
+ 
+## 2018-12-07
+1.今天在copy`iview`的`Select`组件代码时发现了一个没用过的属性：`spellcheck`(其实纵观`iview`源码，好多css属性我没用过呢，还有不少`vue`的api也没用过，尴尬。。。)去MDN上看了下，是一个实验中的属性，用来告诉浏览器是否要检查拼写错误的：https://developer.mozilla.org/zh-CN/docs/Web/HTML/Global_attributes/spellcheck
+
+2.今天才算第一次真正在项目中用到`vue`的`transition`组件，刚开始用不知道`name`会对应css类，文档要看全！https://cn.vuejs.org/v2/guide/transitions.html#%E8%BF%87%E6%B8%A1%E7%9A%84%E7%B1%BB%E5%90%8D
+
+3.今天朋友代表他们组校招面试985的大学生，我日，学生都挺猛的，据说diff算法，虚拟dom，react和vue的区别，各自设计原理等等有深度的问题都回答的很好，不愧是名牌大学生，不像我只知道打游戏。学无止境~
