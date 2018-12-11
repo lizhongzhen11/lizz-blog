@@ -186,3 +186,8 @@
 2.今天继续完善引入百度地图需求开发，其中再次用到了`<transition>`组件，其实代码是抄的iview源码，iview的Select组件，iview的样式库我还是蛮喜欢的，我觉得比饿了么好看，但是它这个过渡效果我居然又抄失败了，上次把`<transition>`对应的css加上就好了，但是这次居然失败了！！！
   - 仔细看控制台和它源码，发现它是通过`v-show`来控制显隐的，也就是`display`。有点经验的都应该直到`display`是没法用`transition`的，但我就很奇怪，vue他怎么做到的呢？？？官方示例来看是伴随着`opacity`属性，可是这个iview呢，我加了`opacity`也没用啊！！！
   - 晚上自己去看了vue的`<transition>`源码，发现它其实也是通过`classList`或者`setAttribute`去添加属性的。感觉这块知识可以写博客了，先记录这么多吧。
+
+
+## 2018-12-11
+1.今天早上终于把iview的`Dropdown`组件动态效果研究出来了，原来他利用了`animition`动画以及<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-function/scale">scaleY</a>和<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-origin">transform-origin</a>。
+  - 怪我css太菜，张鑫旭的书还是要买的！
