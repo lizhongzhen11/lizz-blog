@@ -191,3 +191,8 @@
 ## 2018-12-11
 1.今天早上终于把iview的`Dropdown`组件动态效果研究出来了，原来他利用了`animition`动画以及<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-function/scale">scaleY</a>和<a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/transform-origin">transform-origin</a>。
   - 怪我css太菜，张鑫旭的书还是要买的！
+  
+2.百度地图也让我踩了个大坑，想了两小时呢！起因后台哥们问我要gps的经纬度，我一愣，百度返回的不是吗？
+  > 当然不是！！！看：http://lbsyun.baidu.com/index.php?title=coordinate ，尼玛隐藏的太深了，最重要的是小贴士：**互联网地图在国内必须至少使用GCJ02进行首次加密，不允许直接使用WGS84坐标下的地理数据，同时任何坐标系均不可转换为WGS84坐标。**这TM是法律规定的！！！
+  
+  - 不信邪得我看了下高德地图开发文档：https://lbs.amap.com/api/javascript-api/guide/transform/convertfrom ，高德地图用的是**火星坐标系——GCJ-02**，也不是gps。而百度是自己的**百度坐标系——BD-09**。
