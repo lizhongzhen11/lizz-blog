@@ -10,7 +10,7 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/10">看webpack官方文档给自己提出的几个问题</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/11">一个简单的函数监听器——类似于发布订阅模式</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/13">读《你不知道的javascript》上卷—原型和行为委托 </a>
-- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/14">DOM接口间的关系</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/15">读《你不知道的javascript》中卷—类型与语法</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/16">vue的transition组件学习以及为何与display搭配能起到过渡效果的个人理解</a>
 
 
