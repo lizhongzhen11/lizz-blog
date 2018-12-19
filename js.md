@@ -13,4 +13,5 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/15">读《你不知道的javascript》中卷—类型与语法</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/16">vue的transition组件学习以及为何与display搭配能起到过渡效果的个人理解</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/17">string类型中的反斜杠以及正则无法匹配问题</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/18">从vue源码中学习数据代理</a>
 
