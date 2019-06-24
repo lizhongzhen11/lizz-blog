@@ -24,3 +24,5 @@
 ### <a href="https://github.com/Remain-true-to-our-original-aspiration/front-end-interview-key-point">面试相关</a>
 
 ### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/java.md">服务器以及java相关</a>
+
+### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/awesome%E7%B3%BB%E5%88%97%E6%94%B6%E8%97%8F.md">awesome系列收藏</a>
