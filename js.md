@@ -1,4 +1,4 @@
-## js
+## js杂记
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/2">前端知识点链接收藏</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/1">Object.prototype.toString.call()</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/3">如何跳出循环？</a>
@@ -15,3 +15,5 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/17">string类型中的反斜杠以及正则无法匹配问题</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/18">从vue源码中学习数据代理</a>
 
+## 设计模式
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/20">读《JavaScript设计模式与开发实践》学习 发布-订阅 模式</a>
