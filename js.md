@@ -14,6 +14,7 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/16">vue的transition组件学习以及为何与display搭配能起到过渡效果的个人理解</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/17">string类型中的反斜杠以及正则无法匹配问题</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/18">从vue源码中学习数据代理</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/28">keep-alive组件之include属性业务实践——动态改变组件keep-alive状态</a>
 
 ## 设计模式
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/20">读《JavaScript设计模式与开发实践》学习 发布-订阅 模式</a>
