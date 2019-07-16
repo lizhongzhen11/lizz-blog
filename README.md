@@ -9,6 +9,8 @@
 ## 目录
 ### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/js.md">js</a>
 
+### <a href="https://github.com/lizhongzhen11/lizz-blog/issues/2">前端知识点链接收藏</a>
+
 ### <a href="https://github.com/lizhongzhen11/lizz-blog/issues/9">http！到！https！到！http2！到！开炮！！！</a>
 
 ### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/%E5%A4%A7%E7%89%9B%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0%E7%AD%89%E6%94%B6%E8%97%8F.md">大牛博客，文章等收藏</a>
