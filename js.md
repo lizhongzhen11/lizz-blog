@@ -15,6 +15,7 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/17">string类型中的反斜杠以及正则无法匹配问题</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/18">从vue源码中学习数据代理</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/28">keep-alive组件之include属性业务实践——动态改变组件keep-alive状态</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/29">为什么npx create-reat-app my-app --typescript构建会有react-app.d.ts文件而npx create-reat-app my-app没有？</a>
 
 ## 设计模式
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/20">读《JavaScript设计模式与开发实践》学习 发布-订阅 模式</a>
