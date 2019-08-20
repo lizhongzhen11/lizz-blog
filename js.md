@@ -20,3 +20,4 @@
 ## 设计模式
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/20">读《JavaScript设计模式与开发实践》学习 发布-订阅 模式</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/23">读《JavaScript设计模式与开发实践》学习 职责链 模式</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/32">初识策略模式与项目应用实践</a>
