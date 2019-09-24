@@ -27,4 +27,4 @@
 
 ### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/java.md">服务器以及java相关</a>
 
-### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/awesome%E7%B3%BB%E5%88%97%E6%94%B6%E8%97%8F.md">知识库资源收藏</a>
+### <a href="https://github.com/lizhongzhen11/lizz-blog/blob/master/%E8%B5%84%E6%BA%90%E6%94%B6%E8%97%8F.md">知识库资源收藏</a>
