@@ -1,3 +1,6 @@
+## 夯实 JS 基础
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/41">夯实 JS 基础</a>
+
 ## js杂记
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/2">前端知识点链接收藏</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/1">Object.prototype.toString.call()</a>
