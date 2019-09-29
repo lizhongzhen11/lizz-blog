@@ -1,6 +1,7 @@
 # lizz-blog
-接 https://github.com/lizhongzhen11/lizhongzhen11.github.io<br>
-现在打算直接在`issues`里面去写博客了
+老博客(不维护了，排版不好)： https://github.com/lizhongzhen11/lizhongzhen11.github.io <br>
+日常踩坑学习到的小知识点：https://github.com/lizhongzhen11/dailyGain <br>
+值得研究的放到这里
 
 ## 纸上得来终觉浅，绝知此事要躬行！
 
