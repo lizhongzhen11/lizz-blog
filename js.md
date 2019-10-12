@@ -1,5 +1,5 @@
-## 夯实 JS 基础
-- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/41">夯实 JS 基础——结合规范、MDN重学</a>
+## 重学js
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/41">重学js——结合规范、MDN重学</a>
 
 ## js杂记
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/2">前端知识点链接收藏</a>
