@@ -15,9 +15,21 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/18">从vue源码中学习数据代理</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/28">keep-alive组件之include属性业务实践——动态改变组件keep-alive状态</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/29">为什么npx create-reat-app my-app --typescript构建会有react-app.d.ts文件而npx create-reat-app my-app没有？</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/30">vue-router从history模式切换到hash模式踩坑</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/57">模拟实现一个类似vue的mvvm库</a>
+
 
 ## 设计模式
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/20">读《JavaScript设计模式与开发实践》学习 发布-订阅 模式</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/23">读《JavaScript设计模式与开发实践》学习 职责链 模式</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/32">初识策略模式与项目应用实践</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/33">读《JavaScript设计模式与开发实践》学习 装饰者 模式</a>
+
+## 组件
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/43">写了个星期时间范围选择组件发到npm上</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/45">基于react+ts写了个级联选择器——react-cascader-transfer</a>
+
+## 源码学习
+1. <a href="https://github.com/lizhongzhen11/lizz-blog/issues/58">virtual-dom源码学习一——生成虚拟dom数据结构并渲染节点</a>
+2. <a href="https://github.com/lizhongzhen11/lizz-blog/issues/59">virtual-dom源码学习二——使用diff算法进行更新（diff方法跟踪）</a>
+3. <a href="https://github.com/lizhongzhen11/lizz-blog/issues/60">virtual-dom源码学习三——使用diff算法进行更新（patch方法跟踪）</a>
