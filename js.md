@@ -17,6 +17,7 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/29">为什么npx create-reat-app my-app --typescript构建会有react-app.d.ts文件而npx create-reat-app my-app没有？</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/30">vue-router从history模式切换到hash模式踩坑</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/57">模拟实现一个类似vue的mvvm库</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/61">模拟实现virtual-dom以及使用diff方法更新</a>
 
 
 ## 设计模式
