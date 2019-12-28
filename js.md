@@ -13,11 +13,15 @@
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/16">vue的transition组件学习以及为何与display搭配能起到过渡效果的个人理解</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/17">string类型中的反斜杠以及正则无法匹配问题</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/18">从vue源码中学习数据代理</a>
-- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/28">keep-alive组件之include属性业务实践——动态改变组件keep-alive状态</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/29">为什么npx create-reat-app my-app --typescript构建会有react-app.d.ts文件而npx create-reat-app my-app没有？</a>
-- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/30">vue-router从history模式切换到hash模式踩坑</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/57">模拟实现一个类似vue的mvvm库</a>
 - <a href="https://github.com/lizhongzhen11/lizz-blog/issues/61">模拟实现virtual-dom以及使用diff方法更新</a>
+
+
+## 踩坑
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/28">keep-alive组件之include属性业务实践——动态改变组件keep-alive状态</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/30">vue-router从history模式切换到hash模式踩坑</a>
+- <a href="https://github.com/lizhongzhen11/lizz-blog/issues/62">RegExp.test踩坑</a>
 
 
 ## 设计模式
